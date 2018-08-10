@@ -30,3 +30,8 @@
 4. 粗粒度资源申请Executor
 5. Driver计算调度(DAGScheduler&TaskScheduler)
 6. Driver&Executor维护的SparkEnv(MemoryManager,MapOutputTracker,CacheManager,BlockManager,ShuffleManager,)
+
+## SparkSql
+
+
+## SparkStreaming
